@@ -16,8 +16,8 @@ https://git-scm.com/download/win
 安装git程序，然后在任意文件夹点右键 进入 git bash
 
 git clone  github上的网址
-如 git clone https://github.com/lihuoqin/ttt
-或 git clone git@github.com:lihuoqin/ttt.git
+如 git clone https://github.com/lihuoqin/ttt//不方便提交
+或 git clone git@github.com:lihuoqin/ttt.git//方便提交
 
 
 
